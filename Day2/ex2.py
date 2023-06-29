@@ -17,3 +17,6 @@ weight = input("enter your weight in kg: ")
 
 number1 = float(height)
 number2 = float(weight)
+
+calc = (number2 / number1 ** 2)
+print(calc)
