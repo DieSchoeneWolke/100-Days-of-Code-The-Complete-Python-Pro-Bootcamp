@@ -11,3 +11,6 @@ weight = input("enter your weight in kg: ")
 #calc
 #round the result to the nearest whole number
 #try to use exponent operator
+
+print(type(height))
+print(type(weight))
