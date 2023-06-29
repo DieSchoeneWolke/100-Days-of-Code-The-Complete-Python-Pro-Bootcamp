@@ -7,3 +7,8 @@ age = input("What is your current age? ")
 #convert
 #calc
 #print f string
+
+days = 
+weeks = 
+months =
+print(f"You have {days}, {weeks}, {months} left.")
