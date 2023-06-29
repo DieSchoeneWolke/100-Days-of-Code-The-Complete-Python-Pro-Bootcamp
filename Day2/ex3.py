@@ -7,6 +7,7 @@ age = input("What is your current age? ")
 #convert
 #calc
 #print f string
+convert1 = int(age)
 
 days = 
 weeks = 
