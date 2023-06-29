@@ -7,3 +7,5 @@
 
 #Write your code below this line 👇
 
+#print questions
+#convert datatypes
