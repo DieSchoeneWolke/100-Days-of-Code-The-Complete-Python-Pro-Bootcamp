@@ -14,3 +14,6 @@ weight = input("enter your weight in kg: ")
 
 #print(type(height))
 #print(type(weight))
+
+number1 = float(height)
+number2 = float(weight)
