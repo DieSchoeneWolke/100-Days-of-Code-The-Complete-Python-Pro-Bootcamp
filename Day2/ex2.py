@@ -19,10 +19,10 @@ number1 = float(height)
 number2 = float(weight)
 
 calc = (number2 / number1 ** 2)
-print(calc)
+#print(calc)
 
 round = int(calc)
-print(round)
+print("Your BMI is:",(round))
 
 #only rounds down so far
 #not needed for goal
