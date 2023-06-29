@@ -14,3 +14,5 @@ number2 = two_digit_number[1]
 result = int(number1) + int(number2)
 
 #print(number1 + "\n" + number2)
+
+print(result)
