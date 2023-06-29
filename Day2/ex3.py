@@ -13,7 +13,9 @@ age = input("What is your current age? ")
 # Reachable age 85
 
 convert1 = int(age)
-days = (convert1) / 365
-weeks = (convert1) / 52
-months = (convert1) / 12
+reachable_age =  85
+
+days = ((reachable_age) - (convert1)) / 365
+weeks = ((reachable_age) - (convert1)) / 52
+months = ((reachable_age) - (convert1)) / 12
 print(f"You have {days}, {weeks}, {months} left.")
