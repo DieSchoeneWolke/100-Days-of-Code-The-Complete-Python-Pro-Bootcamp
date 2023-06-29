@@ -23,3 +23,5 @@ print(calc)
 
 round = int(calc)
 print(round)
+
+#only rounds down so far
