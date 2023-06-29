@@ -11,7 +11,7 @@
 #convert datatypes
 
 print("Welcome to the tip calculator.")
-print(input("What was the total bill?"))
-print(input("What percentage tip would you like to give?" + " 10, 12 or 15?"))
-print(input("How many people to split the bill?"))
-print("Each person should pay:")
+bill = print(input("What was the total bill?"))
+percentage = print(input("What percentage tip would you like to give?" + " 10, 12 or 15?"))
+split = print(input("How many people to split the bill?"))
+result = print("Each person should pay:") 
