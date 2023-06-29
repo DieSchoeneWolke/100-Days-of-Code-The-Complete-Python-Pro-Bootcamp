@@ -5,7 +5,6 @@ two_digit_number = input("Type a two digit number: ")
 ####################################
 #Write your code below this line 👇
 
-#two_digit_number
+#two_digit_number subscripting 
 #convert str to int
 #calc
-
