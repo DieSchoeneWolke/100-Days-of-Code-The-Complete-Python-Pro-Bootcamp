@@ -19,5 +19,4 @@ reachable_age =  85 - (convert1)
 days = (reachable_age)  * 365
 weeks = (reachable_age)  * 52
 months = (reachable_age)  * 12
-print(f"You have {days} days, {weeks} weeks, {months} months left until becoming 85.")
-
+print(f"You have {days} days, {weeks} weeks, {months} months left.")
