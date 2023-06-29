@@ -11,5 +11,6 @@ two_digit_number = input("Type a two digit number: ")
 
 number1 = two_digit_number[0]
 number2 = two_digit_number[1]
+result = int(number1) + int(number2)
 
-print(number1 + "\n" + number2)
+#print(number1 + "\n" + number2)
