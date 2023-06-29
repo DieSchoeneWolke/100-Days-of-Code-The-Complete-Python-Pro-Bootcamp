@@ -20,3 +20,6 @@ number2 = float(weight)
 
 calc = (number2 / number1 ** 2)
 print(calc)
+
+round = int(calc)
+print(round)
