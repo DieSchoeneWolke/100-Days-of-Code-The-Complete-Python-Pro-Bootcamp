@@ -7,10 +7,10 @@ weight = input("enter your weight in kg: ")
 
 #check datatype
 #convert
-#subscripting
+#~~subscripting~~
 #calc
-#round the result to the nearest whole number
 #try to use exponent operator
+#round the result to the nearest whole number
 
-print(type(height))
-print(type(weight))
+#print(type(height))
+#print(type(weight))
