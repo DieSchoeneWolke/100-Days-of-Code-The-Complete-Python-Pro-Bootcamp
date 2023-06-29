@@ -9,3 +9,9 @@
 
 #print questions
 #convert datatypes
+
+print("Welcome to the tip calculator.")
+print(input("What was the total bill?"))
+print(input("What percentage tip would you like to give?" + " 10, 12 or 15?"))
+print(input("How many people to split the bill?"))
+print("Each person should pay:")
