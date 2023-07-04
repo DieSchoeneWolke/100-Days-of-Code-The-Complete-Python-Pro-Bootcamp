@@ -9,3 +9,10 @@ weight = float(input("enter your weight in kg: "))
 # calc
 # convert
 # if else elif
+
+number1 = float(height)
+number2 = float(weight)
+
+calc = (number2 / number1 ** 2)
+round = int(calc)
+print("Your BMI is:",(round))
