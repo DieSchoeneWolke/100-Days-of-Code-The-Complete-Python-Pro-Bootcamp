@@ -9,3 +9,6 @@ number = int(input("Which number do you want to check? "))
 # calc
 # if else
 # remainder odd or even
+
+print("This is an odd number.")
+print("This is an even number.")
