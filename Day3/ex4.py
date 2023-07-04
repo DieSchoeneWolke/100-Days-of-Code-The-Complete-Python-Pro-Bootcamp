@@ -4,5 +4,6 @@ year = int(input("Which year do you want to check? "))
 
 #Write your code below this line 👇
 
-
-
+# if
+# remainder
+# else
