@@ -10,12 +10,7 @@ weight = float(input("enter your weight in kg: "))
 # convert
 # if else elif
 
-number1 = float(height)
-number2 = float(weight)
+calc = round(weight / height ** 2)
 
-calc = (number2 / number1 ** 2)
-round = int(calc)
-print("Your BMI is:",(round))
-
-if round < 18.5:
-  print(f"Your BMI is {round}, you are underweight.")
+if calc < 18.5:
+  print(f"Your BMI is {calc}, you are underweight.")
