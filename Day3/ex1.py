@@ -4,5 +4,8 @@ number = int(input("Which number do you want to check? "))
 
 #Write your code below this line 👇
 
-
+# print
+# convert
+# calc
+# if else
 
