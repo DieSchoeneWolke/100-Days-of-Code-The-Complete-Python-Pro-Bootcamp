@@ -14,3 +14,5 @@ calc = round(weight / height ** 2)
 
 if calc < 18.5:
   print(f"Your BMI is {calc}, you are underweight.")
+elif calc < 25:
+  print(f"Your BMI is {calc}, you have a normal weight.")
