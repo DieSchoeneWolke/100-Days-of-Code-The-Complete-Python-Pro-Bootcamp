@@ -16,3 +16,6 @@ number2 = float(weight)
 calc = (number2 / number1 ** 2)
 round = int(calc)
 print("Your BMI is:",(round))
+
+if round < 18.5:
+  print(f"Your BMI is {round}, you are underweight.")
