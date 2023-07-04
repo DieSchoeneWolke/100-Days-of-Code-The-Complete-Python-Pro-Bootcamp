@@ -8,4 +8,4 @@ number = int(input("Which number do you want to check? "))
 # convert
 # calc
 # if else
-
+# remainder odd or even
