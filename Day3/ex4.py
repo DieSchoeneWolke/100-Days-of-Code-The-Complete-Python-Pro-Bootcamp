@@ -10,3 +10,12 @@ extra_cheese = input("Do you want extra cheese? Y or N ")
 # if elif else for sizes
 # if else pepperoni
 # if extra cheese
+
+bill = 0
+
+if size == "S":
+  bill += 15
+elif size == "M":
+  bill += 20
+else:
+  bill += 25
