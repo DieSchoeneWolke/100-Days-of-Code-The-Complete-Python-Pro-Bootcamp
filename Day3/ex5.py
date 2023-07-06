@@ -8,6 +8,7 @@ name2 = input("What is their name? \n")
 
 #count numbers and letters
 #calc for lovescore
+#if else elif
 #print
 
 combined_names = name1 + name2
