@@ -23,3 +23,5 @@ o = lower_names.count("o")
 v = lower_names.count("v")
 e = lower_names.count("e")
 second_digit = l + o + v + e
+
+score = int(str(first_digit) + str(second_digit))
