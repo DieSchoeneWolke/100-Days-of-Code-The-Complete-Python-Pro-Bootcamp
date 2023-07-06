@@ -5,3 +5,8 @@ name2 = input("What is their name? \n")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
+
+#count numbers and letters
+#calc for lovescore
+#print
+
