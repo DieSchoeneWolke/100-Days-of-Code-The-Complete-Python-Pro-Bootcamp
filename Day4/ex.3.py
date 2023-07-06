@@ -14,3 +14,6 @@ names = names_string.split(", ")
 int_rng = len(names)
 
 rng = random.randint(0, int_rng - 1)
+payer = names[rng]
+
+print(payer + " is going to buy the meal today!")
