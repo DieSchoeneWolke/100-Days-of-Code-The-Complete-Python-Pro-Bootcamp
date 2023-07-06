@@ -10,3 +10,5 @@ names = names_string.split(", ")
 #len function
 #random integer
 #list data structure
+
+int_rng = len(names)
