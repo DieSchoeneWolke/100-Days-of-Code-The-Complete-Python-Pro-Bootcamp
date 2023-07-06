@@ -6,3 +6,7 @@
 #import random function
 #define variable with random int 0 or 1
 #if else
+
+import random
+
+coin = random.randint(0,1)
