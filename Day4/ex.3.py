@@ -12,3 +12,5 @@ names = names_string.split(", ")
 #list data structure
 
 int_rng = len(names)
+
+rng = random.randint(0, int_rng - 1)
