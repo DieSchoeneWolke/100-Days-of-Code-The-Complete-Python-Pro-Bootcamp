@@ -13,6 +13,8 @@ position = input("Where do you want to put the treasure? Write in double digit f
 #convert
 #calc
 
+x = int(position[0])
+y = int(position[1])
 
 
 
