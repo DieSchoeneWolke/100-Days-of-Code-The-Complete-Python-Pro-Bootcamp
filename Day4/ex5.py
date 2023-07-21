@@ -38,3 +38,6 @@ user_input -= 1  # Decrement user_input by 1 to fit the 0-based index
 
 #Print image for user
 print (img[user_input])
+
+#Add random integer as AI
+ai_decision = random.randint(0, 2)
