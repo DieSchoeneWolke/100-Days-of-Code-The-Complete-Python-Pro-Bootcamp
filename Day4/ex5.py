@@ -41,3 +41,7 @@ print (img[user_input])
 
 #Add random integer as AI
 ai_decision = random.randint(0, 2)
+
+#Print image for AI
+print ("VS.")
+print(img[ai_decision])
