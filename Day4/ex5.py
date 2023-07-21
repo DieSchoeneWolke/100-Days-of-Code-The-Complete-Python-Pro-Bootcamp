@@ -35,3 +35,6 @@ img = [rock, paper, scissors]
 #Prompt user
 user_input = int(input("1 for 🧱, 2 for 📃, 3 for ✂"))
 user_input -= 1  # Decrement user_input by 1 to fit the 0-based index
+
+#Print image for user
+print (img[user_input])
