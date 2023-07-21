@@ -27,3 +27,4 @@ scissors = '''
 
 #Write your code below this line 👇
 
+import random
