@@ -28,3 +28,6 @@ scissors = '''
 #Write your code below this line 👇
 
 import random
+
+#List of images
+img = [rock, paper, scissors]
